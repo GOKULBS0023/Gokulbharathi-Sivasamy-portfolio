@@ -678,7 +678,7 @@ main {
     align-items: center;
     justify-content: center;
     gap: 0;
-    padding-left: 1.5rem;
+    padding-left: 2rem;
   }
   .details-list {
     grid-template-columns: 1fr;
